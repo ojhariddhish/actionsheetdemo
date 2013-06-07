@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">ActionSheetDemo</string>
+    <string name="images">Images</string>
+    <string name="action_sheet_default">Default Actions</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_sheet">Action Sheet</string>
+    <string name="show_action_sheet">Show ActionSheet</string>
+    <string name="example_button">Example Button</string>
+</resources>
